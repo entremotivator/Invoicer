@@ -4,3 +4,4 @@ google-auth
 plotly 
 yagmail 
 fpdf
+oauth2client
