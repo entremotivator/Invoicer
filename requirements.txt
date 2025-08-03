@@ -1,0 +1,6 @@
+gspread 
+pandas 
+google-auth 
+plotly 
+yagmail 
+fpdf
