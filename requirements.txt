@@ -5,3 +5,4 @@ plotly
 yagmail 
 fpdf
 oauth2client
+reportlab
